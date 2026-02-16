@@ -6,7 +6,7 @@ A frontend take-home assignment.
 
 Build a character explorer for the [Rick and Morty API](https://rickandmortyapi.com/documentation). The application should allow users to browse, filter, and favorite characters from the show.
 
-**Time expectation**: 3-4 hours. We value clean, well-structured code over feature completeness. If you run out of time, focus on quality over quantity and leave TODO comments explaining what you would do next.
+We value clean, well-structured code over feature completeness. If you run out of time, focus on quality over quantity and leave TODO comments explaining what you would do next.
 
 ## Getting Started
 
